@@ -1,0 +1,3 @@
+Số tài khoản: 123456
+Chủ tài khoản: Nguyen Van A
+Số dư: 980.0

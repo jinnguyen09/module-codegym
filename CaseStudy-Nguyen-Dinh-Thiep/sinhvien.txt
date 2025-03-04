@@ -1,0 +1,20 @@
+Mã số sinh viên 0
+Họ và tên Nguyen Van B, Tuổi 21, Ngành học maths
+--------------------------------------
+
+Mã số sinh viên 1
+Họ và tên Nguyen Dinh Thiep, Tuổi 20, Ngành học Information Technology
+--------------------------------------
+
+Mã số sinh viên 2
+Họ và tên Tran Khanh Linh , Tuổi 21, Ngành học Chineses study
+--------------------------------------
+
+Mã số sinh viên 3
+Họ và tên Nguyen Dinh Thang, Tuổi 22, Ngành học Maths
+--------------------------------------
+
+Mã số sinh viên 4
+Họ và tên Nguyen Dinh Thanh, Tuổi 20, Ngành học Data analysis
+--------------------------------------
+
